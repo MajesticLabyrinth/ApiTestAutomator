@@ -1,0 +1,15 @@
+{
+  "targeturi": "https://wordsapiv1.p.rapidapi.com/words/hatchback/typeOf",
+  "request": {
+    "headers": {
+    }
+  },
+  "response": {
+    "httpresponsecode": "200",
+    "body": {
+    },
+    "headers": {
+    }
+  }
+
+}
