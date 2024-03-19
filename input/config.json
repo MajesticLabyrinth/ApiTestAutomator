@@ -1,6 +1,7 @@
 {
   "targeturi": "https://wordsapiv1.p.rapidapi.com/words/hatchback/typeOf",
   "request": {
+    "method": "GET",
     "headers": {
     }
   },
@@ -11,5 +12,4 @@
     "headers": {
     }
   }
-
 }
