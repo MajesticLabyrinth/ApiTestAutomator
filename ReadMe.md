@@ -61,3 +61,7 @@ https://stackoverflow.com/questions/15461995/python-requests-vs-pycurl-performan
 
 As it can be observed, requests has simple interface but is bit slower than pycurl. With the view that this framework
 should be usable in CI, we have picked pycurl library since it will be much faster and can help save time in post-build execution.
+
+Sharing logger across multiple Python Modules
+
+https://stackoverflow.com/questions/15727420/using-logging-in-multiple-modules
